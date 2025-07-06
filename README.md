@@ -1,12 +1,54 @@
-# React + Vite
+# 📝 Personal Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Description
 
-Currently, two official plugins are available:
+A simple and responsive personal task management application built with React.js. It allows users to log in (without real authentication), manage tasks with add/edit/delete functionality, and filter them by status — all while storing data locally in the browser using `localStorage`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 Simple login using username (saved in localStorage)
+- 📝 Add tasks with title and optional description
+- ✏️ Edit tasks inline or via modal
+- ❌ Delete tasks with confirmation
+- ✅ Mark tasks as completed or pending
+- 📅 Display task creation date and time
+- 📂 Filter tasks by All, Completed, or Pending
+- 💾 Data persistence using localStorage
+- 📱 Fully responsive design (desktop + mobile)
+
+---
+
+## 🛠 Setup Instructions
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/your-username/personal-task-tracker.git
+   cd personal-task-tracker
+   npm install
+   npm run dev
+   
+Open in browser: http://localhost:3000
+
+🧰 Technologies Used
+React.js (Functional Components + Hooks)
+CSS 
+localStorage API for persistence
+
+🔗 Live Demo:- [https://task-tracker-mu-ten.vercel.app/login](https://task-tracker-mu-ten.vercel.app/login)
+🌐 Live 
+
+🖼 Screenshots
+
+
+![image](https://github.com/user-attachments/assets/c545f922-6543-45a0-9be2-0e0f16ad5852)
+
+
+### ✅ Next Step for You:
+- Replace **`your-username`** and **`your-live-app-url`** with your actual GitHub and deployment URL
+- Add screenshots in `screenshots/` folder (optional)
+
+Ready to paste into your project 💯  
+Need a `LICENSE.md` or `CONTRIBUTING.md` too? Let me kno
