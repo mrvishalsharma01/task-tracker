@@ -38,7 +38,7 @@ CSS
 localStorage API for persistence
 
 🔗 Live Demo:- [https://task-tracker-mu-ten.vercel.app/login](https://task-tracker-mu-ten.vercel.app/login)
-🌐 Live 
+
 
 🖼 Screenshots
 
