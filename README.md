@@ -45,10 +45,3 @@ localStorage API for persistence
 
 ![image](https://github.com/user-attachments/assets/c545f922-6543-45a0-9be2-0e0f16ad5852)
 
-
-### ✅ Next Step for You:
-- Replace **`your-username`** and **`your-live-app-url`** with your actual GitHub and deployment URL
-- Add screenshots in `screenshots/` folder (optional)
-
-Ready to paste into your project 💯  
-Need a `LICENSE.md` or `CONTRIBUTING.md` too? Let me kno
